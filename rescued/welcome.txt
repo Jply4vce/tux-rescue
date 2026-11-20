@@ -1,0 +1,21 @@
+YOU ARE HERE: ~/os_git_graded/160-fall-2026/meltdown/lobby
+
+Welcome to the lobby, agent! Mind the puddles.
+
+    +-----------------------------+
+    |  FRAGMENT 1 of 5:   real    |
+    +-----------------------------+
+
+The lobby is flooding! Rescue THIS file, welcome.txt, now:
+your orders, JOB 4. (FLAG.txt on the desk? Read it, and you will see why
+your orders say NOT to rescue it.)
+
+Tux left a wet sticky note:
+
+   "Penguins love the cold. Find my IGLOO, it is next to
+    the lobby.
+
+    But careful... what you see is not everything that is
+    there. Ask ls nicely, with the right option."
+
+Not sure where you are? Look at your prompt, or type pwd.

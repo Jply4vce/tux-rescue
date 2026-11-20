@@ -1,0 +1,20 @@
+YOU ARE HERE: ~/os_git_graded/160-fall-2026/meltdown/maze/north/the_corridor_.../right door
+
+*creeeak*  The chest opens... it is full of water. And:
+
+    +-----------------------------+
+    |  FRAGMENT 3 of 5:   never   |
+    +-----------------------------+
+
+There is also a note inside:
+
+  "Well done! Look at how long your path is. Aren't you
+   glad TAB exists?
+
+   This chest is soaking wet! Rescue THIS file,
+   treasure_chest.txt, NOW: your orders, JOB 6. Then finish PHASE 2 (commit 2).
+
+   Next stop, in PHASE 3: the LIBRARY. It is in the meltdown
+   folder, next to the maze. Your prompt shows where you are:
+   how many levels up is the meltdown folder? Go back
+   there with ONE command:  cd ../../../..  (count them!)"
