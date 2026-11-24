@@ -1,0 +1,40 @@
+"THE COMPLETE AND UNABRIDGED HISTORY OF THE LOST PENGUIN"
+==========================================================
+
+Chapter 1 - The Egg
+Once upon a time, in a server room very far from Antarctica, a
+small egg was found on top of a rack, between a switch and a very
+warm power supply. Nobody knew where it came from. The heat of the
+servers kept it warm, and one morning, with a tiny CRACK, out came
+a penguin. The coders called him Tux.
+
+Chapter 2 - The Apprentice
+Tux grew up watching the coders work. He noticed that the good
+ones never touched the mouse. They typed. They pressed TAB. They
+knew where they were thanks to pwd. They walked around the file
+system with cd like it was their own igloo.
+
+Chapter 3 - The Promise
+One day, the oldest coder called Tux and whispered a secret
+into his tiny ear. "Tux," she said, "if one day you must hide the
+vault password, hide it in pieces. Only someone who really knows
+the command line will be able to put it back together."
+
+Chapter 4 - The Secret
+And so Tux did. This is the piece he hid in this book:
+
+    +-----------------------------+
+    |  FRAGMENT 4 of 5:   touch   |
+    +-----------------------------+
+
+(Fun fact: touch is ALSO a command. You'll use it very soon.)
+
+Chapter 5 - The Meltdown
+Many years later, the air conditioning broke. The last fragment
+is in the SERVER ROOM, the hottest place of all. Go there (it is
+in the meltdown folder) and read the alarm.
+
+(The pages are getting wet! Rescue THIS book, book_09.txt,
+NOW, with its new name: your orders, JOB 7.)
+
+THE END (of this book, not of your mission).
